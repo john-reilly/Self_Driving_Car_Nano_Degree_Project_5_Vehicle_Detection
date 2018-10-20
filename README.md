@@ -43,14 +43,14 @@ You can use the below conda environment to make sure all dependencies etc are pr
 Clone the Udacity project repo below, download my notebook and run in the same folder 
 
 
-Udacity default [readme file]( https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_4__Advanced_lane_Finding/blob/master/Udacitys_README.md), provides an overview and many links 
+Udacity default [readme file]( https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_5_Vehicle_Detection/blob/master/Udacitys_README.md), provides an overview and many links 
 
-Udacity Project [repo](https://github.com/udacity/CarND-Advanced-Lane-Lines), students begin by cloning this repo and that gives them the images, video and sample code to get started.
+Udacity Project [repo](https://github.com/udacity/CarND-Vehicle-Detection), students begin by cloning this repo and that gives them the images, video and sample code to get started.
 
 Udacity environment [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md), a conda environment to ensure the code runs correctly 
 
-Udacity suggested [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
+Udacity suggested [writeup template](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
 
-Udacity [project rubric](https://review.udacity.com/#!/rubrics/571/view), to explain how it is graded.
+Udacity [project rubric](https://review.udacity.com/#!/rubrics/513/view), to explain how it is graded.
 
 Udacity homepage for the course [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
