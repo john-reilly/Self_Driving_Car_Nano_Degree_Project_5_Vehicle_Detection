@@ -1,37 +1,56 @@
-# Vehicle Detection
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# **Presentation Video**
+ **I present the whole project, notebook, files and outputs in a few minutes**
+
+ **Right Click the link to download the video.** [ Video Link](https://raw.githubusercontent.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_1_Finding_Lane_Lines/master/output_video/out11.mp4)
+
+# **Project Report**
+**My Original Report in pdf format as submitted to Udacity for review.**
+**I refer to the report in the video, its 14 pages long with still images of the videos.**
+**Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_5_Vehicle_Detection/blob/master/Vehicle%20Detection.pdf)
 
 
-In this project, your goal is to write a software pipeline to detect vehicles in a video (start with the test_video.mp4 and later implement on full project_video.mp4), but the main output or product we want you to create is a detailed writeup of the project.  Check out the [writeup template](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup.  
+# **Project Feedback**
+**Below are some screenshots showing the feedback from the Udacity reviewer**
+**Before and after feedback**
 
-Creating a great writeup:
+
+<img src="/Project_5_Feedback_1.PNG" width="900" alt="Feedback screenshot 1" />
+
 ---
-A great writeup should include the rubric points as well as your description of how you addressed each point.  You should include a detailed description of the code used in each step (with line-number references and code snippets where necessary), and links to other supporting documents or external references.  You should include images in your writeup to demonstrate how your code works with examples.  
 
-All that said, please be concise!  We're not looking for you to write a book here, just a brief description of how you passed each rubric point, and references to the relevant code :). 
+<img src="/Project_5_Feedback_2.PNG" width="900" alt="Feedback screenshot 2" />
 
-You can submit your writeup in markdown or use another method and submit a pdf instead.
-
-The Project
 ---
 
-The goals / steps of this project are the following:
+<img src="/Project_5_Feedback_3.PNG" width="900" alt="Feedback screenshot 3" />
 
-* Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
-* Optionally, you can also apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector. 
-* Note: for those first two steps don't forget to normalize your features and randomize a selection for training and testing.
-* Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
-* Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
-* Estimate a bounding box for vehicles detected.
+---
 
-Here are links to the labeled data for [vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicle](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) examples to train your classifier.  These example images come from a combination of the [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html), the [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/), and examples extracted from the project video itself.   You are welcome and encouraged to take advantage of the recently released [Udacity labeled dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) to augment your training data.  
+<img src="/Project_5_Feedback_4.PNG" width="900" alt="Feedback screenshot 4" />
 
-Some example images for testing your pipeline on single frames are located in the `test_images` folder.  To help the reviewer examine your work, please save examples of the output from each stage of your pipeline in the folder called `ouput_images`, and include them in your writeup for the project by describing what each image shows.    The video called `project_video.mp4` is the video your pipeline should work well on.  
+---
 
-**As an optional challenge** Once you have a working pipeline for vehicle detection, add in your lane-finding algorithm from the last project to do simultaneous lane-finding and vehicle detection!
 
-**If you're feeling ambitious** (also totally optional though), don't stop there!  We encourage you to go out and take video of your own, and show us how you would implement this project on a new video!
+# If you want to run the code please refer to the links below
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+The program is in [Python 3](https://www.python.org/) running in a [Jupyter Notebook](http://jupyter.org/)
+
+
+You can use the below conda environment to make sure all dependencies etc are present.
+
+
+Clone the Udacity project repo below, download my notebook and run in the same folder 
+
+
+Udacity default [readme file]( https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_4__Advanced_lane_Finding/blob/master/Udacitys_README.md), provides an overview and many links 
+
+Udacity Project [repo](https://github.com/udacity/CarND-Advanced-Lane-Lines), students begin by cloning this repo and that gives them the images, video and sample code to get started.
+
+Udacity environment [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md), a conda environment to ensure the code runs correctly 
+
+Udacity suggested [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md), a suggestion for how the notebook should be presented
+
+Udacity [project rubric](https://review.udacity.com/#!/rubrics/571/view), to explain how it is graded.
+
+Udacity homepage for the course [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
