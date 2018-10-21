@@ -9,7 +9,7 @@
 **Left Click the link to view online or Right Click the link to download a pdf.** [ Report Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_5_Vehicle_Detection/blob/master/Vehicle%20Detection.pdf)
 
 # **Project Notebook**
-**The Python code was created in Jupyter Notebook and can be seen online.** [Notebook Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_5_Vehicle_Detection/blob/master/Vehicle%20Detection%20Finished%20Version%2025%20July.ipynb)
+**The Python code was created in Jupyter Notebook and can be seen on Github.com** [Notebook Link](https://github.com/john-reilly/Self_Driving_Car_Nano_Degree_Project_5_Vehicle_Detection/blob/master/Vehicle%20Detection%20Finished%20Version%2025%20July.ipynb)
 
 # **Project Feedback**
 **Below are some screenshots showing the feedback from the Udacity reviewer**
